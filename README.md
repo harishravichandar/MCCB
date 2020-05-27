@@ -7,22 +7,22 @@ We propose a learning framework, named Multi-Coordinate Cost Balancing (MCCB), t
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ISBZC9uRp5A/0.jpg)](http://www.youtube.com/watch?v=ISBZC9uRp5A)
 
 ## Paper
-Read more about MCCB in [our ICRA-2019 paper](http://docs.ahmadzadeh.info/pdfs/ICRA_2019.pdf).
+Read more about MCCB in our [ICRA-2019 paper](https://arxiv.org/pdf/1903.11725.pdf).
 
 ## Reference
-Please consider citing MCCB using the following bibtex
+
+H. Ravichandar<sup>#</sup>, S.R. Ahmadzadeh<sup>#</sup>, M. A. Rana, S. Chernova. "Skill acquisition via automated multi-coordinate cost balancing", *IEEE International Conference on Robotics and Automation (ICRA)*, 2019, pp. 7776-7782.
+(<sup>#</sup>contributed equally)
 
 ```
 @INPROCEEDINGS{ravichandar2019skill,
     TITLE={Skill Acquisition via Automated Multi-Coordinate Cost Balancing},
     AUTHOR={Ravichandar, Harish and Ahmadzadeh, S. Reza and Rana, M. Asif and Chernova, Sonia},
-    BOOKTITLE={Robotics and Automation ({ICRA}), {IEEE} International Conference on},
+    BOOKTITLE={{IEEE} International Conference on Robotics and Automation ({ICRA})},
     PAGES={7776--7782},
     YEAR={2019},
     MONTH={May},
     ADDRESS={Montreal, Canada},
-    ORGANIZATION={{IEEE}},
     %DOI={10.1109/ICRA.2015.7139728}
 }
 ```
-
